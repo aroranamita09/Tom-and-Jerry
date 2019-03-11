@@ -10,12 +10,12 @@ public class SortWordsTest {
     SortWords obj;
     @Before
     public void setUp() throws Exception {
-        SortWords obj = new SortWords();
+         obj = new SortWords();
     }
 
     @After
     public void tearDown() throws Exception {
-        SortWords obj = null;
+         obj = null;
     }
 
     @Test
